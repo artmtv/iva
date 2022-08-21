@@ -13,7 +13,7 @@ name = "Тьюторство"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Направления работы"
+name = "Направления работ"
 url = "#service"
 weight = 3
 [[menu.main]]
