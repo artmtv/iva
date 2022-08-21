@@ -18,7 +18,7 @@ url = "#service"
 weight = 3
 [[menu.main]]
 name = "Методы"
-url = "#skill"
+url = "{{< relref "section skill" >}}"
 weight = 4
 [[menu.main]]
 name = "Мой опыт"
