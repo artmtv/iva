@@ -1,24 +1,19 @@
 ---
 enable: true
-topTitle: My Resume
+topTitle: Почему я всё это умею?
 title: >
-  ## My Expertises
+  ## Мой опыт
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
-
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Education
-tab2Name: Experiences
+  Здесь какие-то общие слова об образовании и получении навыков в реальной работе с детьми.
+  Здесь какие-то общие слова об образовании и получении навыков в реальной работе с детьми. 
+  Здесь какие-то общие слова об образовании и получении навыков в реальной работе с детьми.
+  Здесь какие-то общие слова об образовании и получении навыков в реальной работе с детьми. 
+tab1Name: Образование
+tab2Name: Работа и активности
 tab1Target: education
 tab2Target: experience
 
 education:
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
   - content: >
       #### Master in Arts
 

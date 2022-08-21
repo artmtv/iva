@@ -1,45 +1,59 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: С какими запросами я работаю?
 title: >
-  ## Creative Services
+  ## Направления работы и кейсы
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Я работаю в бережной и доверительной среде с ребенком, но крайне важна также поддержка и доверие родителей к происходящему. Только при совместных усилиях возможен результат!
+
 service:
   - content: >
-      #### UI/UX Design 
+      #### Поиск интересов
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      «Мой ребенок не знает, не понимает, что действительно ему интересно, иногда кажется, что НИЧЕГО»
+
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      #### Выявление личного смысла в обучении
+ 
+      «Зачем мне учиться, я после школы не планирую поступать в университет, а открою свой бизнес»
+      
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Определение и построение индивидуального маршрута 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      «Все ребята из моего класса успевают записывать за учителем и понимают о чем речь, а мне требуется больше времени, в итоге, я не понимаю» 
+
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Поиск мотивации и анализ ее снижения или отсутствия
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      «Не хочу учиться, хочу играть в компьютерные игры дни и ночи напролет»
+
     image: images/service/branding.svg
   - content: >
-      #### UI/UX Design
+      #### Помощь в самоопределении
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      «Я не знаю, куда и как мне двигаться дальше, будущее пугает меня»
+
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development
+      #### Трудности в коммуникации
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      «Я обижен и зол на всех, так как все они придурки, не замечают, что меня бесит»
+    
+    image: images/service/web.svg
+    
+  - content: >
+      #### Помощь в самоорганизации, повышение самостоятельности
+
+      «Мой ребенок делает уроки более 4 часов, он делает все невыносимо медленно, как будто специально тянет время, в итоге мы ничего не успеваем кроме выполнения ДЗ»
+    
+    image: images/service/web.svg
+    
+  - content: >
+      #### Осознанный подход к обучению
+
+      «Я учусь только потому, что это НАДО родителям и учителям, а не мне»
+    
     image: images/service/web.svg
