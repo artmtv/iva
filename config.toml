@@ -17,6 +17,10 @@ name = "Направления работы"
 url = "#service"
 weight = 3
 [[menu.main]]
+name = "Методы"
+url = "#skill"
+weight = 4
+[[menu.main]]
 name = "Мой опыт"
 url = "#resume"
 weight = 5

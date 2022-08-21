@@ -2,7 +2,7 @@
 enable: true
 topTitle: Родители о результатах
 title: >
-  ### Отзывы о моей работе
+  ## Отзывы о моей работе
 
 testimonial:
   - name: Ryan Cook
