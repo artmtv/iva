@@ -1,5 +1,5 @@
 baseURL = "https://iva-tutor.ru/"
-languageCode = "ru"
+languageCode = "en-Us"
 paginate = 6
 theme = "portio"
 title = "Portio"
