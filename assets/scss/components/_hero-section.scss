@@ -165,7 +165,9 @@
 
 .btn-zoom {
   transition: all 0.3s ease;
-  margin-top: 10px;
+  margin-top: 20px;
+  position: center;
+  margin: auto;
   transform: scale(1);
   &:hover {
     box-shadow: 0 8px 20px rgba(56, 87, 241, 0.3);
