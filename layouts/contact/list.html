@@ -31,8 +31,10 @@
     			<div class="col-lg-6">
 				<div class="footer__footer_social">
 					<ul class="unstyle-list">
-						<a class="social" href="https://yandex.ru/"> <img src="images/telegram.svg" width="26">
-</a>
+						{{ $social := .Site.Params.social }}
+						{{ range $social }}
+						<li class="d-inline-block mx-2"><a class="text-light" target="_blank" href="{{ .url }}"><i
+									class="fa {{ .icon }}"></i></a>
 						</li>
 						{{ end }}
 					</ul>
