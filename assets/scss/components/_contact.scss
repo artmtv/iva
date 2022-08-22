@@ -27,6 +27,7 @@
   }
 }
 .contact-form {
+  margin: 50 auto;
   padding: 50px 0 100px 0;
   &-input {
     .form-group {
@@ -34,7 +35,7 @@
     }
   }
   #map {
-    border-radius: 30px;
+    border-radius: 20px;
     height: 100%;
     @include desktop {
       height: 400px;
