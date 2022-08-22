@@ -44,14 +44,14 @@ pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
-icon = "fa-brands fa-whatsapp"
+icon = "fa-brands fa-whatsapp-2xl"
 url = "https://www.facebook.com/"
 weight = 1
 [[params.social]]
-icon = "fa-brands fa-telegram"
+icon = "fa-brands fa-telegram-2xl"
 url = "https://www.linkedin.com/"
 weight = 2
 [[params.social]]
-icon = "fa-brands fa-instagram"
+icon = "fa-brands fa-instagram-2xl"
 url = "https://www.pinterest.com/"
 weight = 3
