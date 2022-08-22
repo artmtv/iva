@@ -41,8 +41,6 @@
 			
 				</div>
 			</div>
-		</div>
-		<div class="row footer__footer">
 			<div class="col-lg-6">
 				<div class="footer__footer_social">
 					<ul class="unstyle-list">
@@ -51,16 +49,18 @@
 						<li class="d-inline-block mx-2"><a class="text-light" target="_blank" href="{{ .url }}"><i
 									class="fa {{ .icon }}"></i></a>
 						</li>
+						{{ end }}
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="row footer__footer">
 			<div class="col-lg-6">
 				<div class="footer__footer_copy text-light">
 					<p>{{ .Site.Params.copyright }}</p>
 				</div>
 			</div>
-			
-						{{ end }}
-					</ul>
-				</div>
-			</div>
+
 		</div>
 	</div>
 </section>
