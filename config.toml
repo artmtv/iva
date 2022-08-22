@@ -21,24 +21,6 @@ name = "Мой опыт"
 url = "#resume"
 weight = 5
 
-# Sitemap Menu
-[[menu.sitemap]]
-name = "About me"
-url = "#home"
-weight = 1
-[[menu.sitemap]]
-name = "Тьюторство"
-url = "#home"
-weight = 2
-[[menu.sitemap]]
-name = "Направления работы"
-url = "#service"
-weight = 3
-[[menu.sitemap]]
-name = "Мой опыт"
-url = "#resume"
-weight = 5
-
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
