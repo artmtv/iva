@@ -8,12 +8,9 @@
 
 a.text-light,
 a.text-dark {
-  color:#5d78ff;
-  height: 20px;
-  width: 20px;  
     // transition: all 0.3s ease;
     &:hover {
-        color: #343a40
+        color: $primary !important;
     }
 }
 
