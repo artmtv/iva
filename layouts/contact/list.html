@@ -33,9 +33,9 @@
 					<ul class="unstyle-list">
 						{{ $social := .Site.Params.social }}
 						{{ range $social }}
-						<a class="inline-block mx-2" href="#"><img class="" src="{{ (default "telegram.svg" ) | relURL }}" alt="mysite" width="26"></a>
-           <a class="inline-block mx-2" href="#"><img class="" src="{{ (default "whatsapp.svg" ) | relURL }}" alt="mysite" width="26"></a>
-           <a class="inline-block mx-2" href="#"><img class="" src="{{ (default "instagram.svg" ) | relURL }}" alt="mysite" width="26"></a>
+						<a class="inline-block mx-2" href="#"><img class="tg" src="images/telegram.svg" width="26"></a>
+           <a class="inline-block mx-2" href="#"><img class="ws" src="images/whatsapp.svg" width="26"></a>
+           <a class="inline-block mx-2" href="www.yandex.ru"><img class="ing" src="images/instagram.svg" width="26"></a>
 						</li>
 						{{ end }}
 					</ul>
