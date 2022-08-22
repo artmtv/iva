@@ -47,17 +47,11 @@ pinImage = "images/pin.png"
 icon = "fa-brands fa-whatsapp"
 url = "https://www.facebook.com/"
 weight = 1
-  socialInHeader = true
-  socialInFooter = false
 [[params.social]]
 icon = "fa-brands fa-telegram"
 url = "https://www.linkedin.com/"
 weight = 2
-  socialInHeader = true
-  socialInFooter = false
 [[params.social]]
 icon = "fa-brands fa-instagram"
 url = "https://www.pinterest.com/"
 weight = 3
-  socialInHeader = true
-  socialInFooter = false
