@@ -55,8 +55,3 @@ weight = 2
 icon = "fa-brands fa-instagram"
 url = "https://www.pinterest.com/"
 weight = 3
-[[params.social]]
-  name = "telegram.svg"
-  image = "/images/social/telegram.svg"
-  weight = 4
-  url = "https://letterboxd.com/me/"
