@@ -48,7 +48,7 @@ icon = "fa-facebook-official"
 url = "https://www.facebook.com/"
 weight = 1
 [[params.social]]
-icon = "fa-linkedin-square"
+icon = "fa-brands fa-telegram"
 url = "https://www.linkedin.com/"
 weight = 2
 [[params.social]]
