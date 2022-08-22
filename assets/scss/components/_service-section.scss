@@ -64,6 +64,20 @@
             overflow: visible;
             left: -45px;
         }
+        .slick-dots {
+            display: flex;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+            justify-content: center;
+            li {
+                margin: 0;
+                list-style: none;
+                height: 8px;
+                width: 8px;
+                &:not(:last-child) {
+                    margin-right: 15px;
+                }
                 button {
                     cursor: pointer;
                     height: 100%;
