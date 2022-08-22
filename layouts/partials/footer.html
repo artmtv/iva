@@ -47,11 +47,9 @@
 			</div>
 			<div class="col-lg-6">
 				<div class="footer__footer_social">
-					<ul class="unstyle-list">
-						{{ $social := .Site.Params.social }}
-						{{ range $social }}
-						<li class="d-inline-block mx-2"><a class="text-light" target="_blank" href="{{ .url }}"><i
-									class="fa {{ .icon }}"></i></a>
+					<a class="inline-block px-2" href="#"><img class="" src="{{ (default "telegram.svg" ) | relURL }}" alt="mysite" width="26"></a>
+           <a class="inline-block px-2" href="#"><img class="" src="{{ (default "whatsapp.svg" ) | relURL }}" alt="mysite" width="26"></a>
+           <a class="inline-block" href="#"><img class="" src="{{ (default "instagram.svg" ) | relURL }}" alt="mysite" width="26"></a>
 						</li>
 						{{ end }}
 					</ul>
