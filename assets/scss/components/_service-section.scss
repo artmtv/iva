@@ -26,6 +26,7 @@
             display: none;
         }
     }
+    
     &__background_pattern {
         position: absolute;
         bottom: 4%;
@@ -111,4 +112,8 @@
             }
         }
     }
+}
+
+.mb-5 {
+  margin-bottom: 0px;
 }
