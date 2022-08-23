@@ -45,13 +45,13 @@ pinImage = "images/pin.png"
 # Social icons
 [[params.social]]
 icon = "fa-brands fa-whatsapp"
-url = "https://www.facebook.com/"
+url = "https://wa.clck.bar/79774596820/"
 weight = 1
 [[params.social]]
 icon = "fa-brands fa-telegram"
-url = "https://www.linkedin.com/"
+url = "https://t.me/iva_tutor/"
 weight = 2
 [[params.social]]
 icon = "fa-brands fa-instagram"
-url = "https://www.pinterest.com/"
+url = "https://www.instagram.com/iva_psych/"
 weight = 3
