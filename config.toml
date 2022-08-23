@@ -45,7 +45,7 @@ pinImage = "images/pin.png"
 # Social icons
 [[params.social]]
 icon = "fa-brands fa-whatsapp"
-url = "https://wa.clck.bar/79774596820/"
+url = "https://wa.clck.bar/79774596820"
 weight = 1
 [[params.social]]
 icon = "fa-brands fa-telegram"
