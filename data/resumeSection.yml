@@ -28,22 +28,33 @@ education:
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### Частная практика тьютора и психолога 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+    time: 2019-настоящий момент
   - content: >
       #### Aperture Science 
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
     time: 2010-2016
   - content: >
-      #### ACME Inc. 
+      #### Тьютор в частной школе "Wunderpark" 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
+      Индивидуальное сопровождение тьюторантов, проведение групповых и индивидуальных занятий, поиск интересов, склонностей, стимулирование к участию в олимпиадах, конкурсах и иных мероприятиях, работа с участниками пед. коллектива и родителями.
+    time: 2021-2022
   - content: >
-      #### LexCorp 
+      #### Психолог в социальной сфере в ГБУ Центр "Содействие"
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      Сопровождение организаций для детей-сирот и детей,оставшихся без попечения родителей: психологическая диагностика воспитанников ЦССВ, проведение тренингов, проведение групповых и индивидуальных занятий с воспитанниками, психолого-педагогическая работа с детьми  с девиантной формой поведения, консультирование специалистов.
+    time: 2018-2021
+    
+  - content: >
+      #### Педагог-психолог в частной школе "Лидеры"
+
+      Персональное сопровождение учеников курируемого класса в образовательном пространстве, организация жизнедеятельности учащихся в школе, воспитательная работа, оказание помощи ученикам в  преодолении проблем и трудностей в процессе обучения.
+    time: 2017-2018
+    
+  - content: >
+      #### Менеджер по организации детских праздников в "Шоу-Кидс"
+
+      Разработка сценариев праздников, координация работы исполнителей, контроль исполнения заказов, подбор артистов и исполнителей, взаимодействие с клиентами.
+    time: 2017-2018
