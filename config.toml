@@ -24,7 +24,7 @@ weight = 5
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "Пишите в мессенджеры и подписывайтесь в instagram:"
+copyright = "Пишите в мессенджеры и читайте мой инстаграм:"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/myyvzerl"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
