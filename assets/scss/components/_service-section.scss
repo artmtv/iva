@@ -39,9 +39,9 @@
     &__slider {
         &_item {
             margin: 15px;
-            padding: 30px;
+            padding: 5px 30px;
             left: -30px;
-            box-shadow: 0px 20px 40px 0px rgba(50, 65, 141, 0.12);
+            box-shadow: 5px 6px 12px 5px rgba(50, 65, 141, 0.12);
             border-radius: 20px;
             background: $white;
             &-icon {
