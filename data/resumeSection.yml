@@ -15,20 +15,16 @@ tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### Организационный психолог
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Московский государственный психолого-педагогический университет (МГППУ)
+    time: 2019-2021
   - content: >
-      #### Master in Arts
+      #### Педагог-психолог
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
+      Российский государственный гуманитарный университет (РГГУ)
+    time: 2013-2017
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
 
 experience:
   - content: >
