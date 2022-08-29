@@ -16,36 +16,36 @@ service:
  
       «Зачем мне учиться, я после школы не планирую поступать в университет, а открою свой бизнес»
       
-    image: images/service/web.svg
+    image: images/service/2.png
   - content: >
       ##### Поиск мотивации и анализ ее снижения или отсутствия
 
       «Не хочу учиться, хочу играть в компьютерные игры дни и ночи напролет»
 
-    image: images/service/branding.svg
+    image: images/service/3.png
   - content: >
       ##### Помощь в самоопределении
 
       «Я не знаю, куда и как мне двигаться дальше, будущее пугает меня»
 
-    image: images/service/ui-ux.svg
+    image: images/service/4.png
   - content: >
       ##### Трудности в коммуникации
 
       «Я обижен и зол на всех, так как все они придурки, не замечают, что меня бесит»
     
-    image: images/service/web.svg
+    image: images/service/5.png
     
   - content: >
       ##### Помощь в самоорганизации, повышение самостоятельности
 
       «Мой ребенок делает уроки более 4 часов, он делает все невыносимо медленно, как будто специально тянет время, в итоге мы ничего не успеваем кроме выполнения ДЗ»
     
-    image: images/service/web.svg
+    image: images/service/6.png
     
   - content: >
       ##### Осознанный подход к обучению
 
       «Я учусь только потому, что это надо родителям и учителям, а не мне»
     
-    image: images/service/web.svg
+    image: images/service/7.png
