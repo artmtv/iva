@@ -39,16 +39,19 @@
 .btn-primary {
   background-color: #60bfa8;
   border-color: #60bfa8;
+  box-shadow: none
 }
 
 .btn-primary:hover {
   background-color: #7fcbb9;
   border-color: #7fcbb9;
+  box-shadow: none
 }
 
 .btn-primary:not(:disabled):not(.disabled).active {
   background-color: #7fcbb9;
   border-color: #7fcbb9;
+  box-shadow: none
 }
 
 .btn-primary:focus {
