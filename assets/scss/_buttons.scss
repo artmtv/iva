@@ -1,9 +1,9 @@
 // .btn {
 //   transition: all 0.3s ease;
 //   padding: 20px 50px;
-//   border-radius: 7px;
+//   border-radius: 5px;
 //   &:hover {
-//     box-shadow: 0 8px 20px rgba(56, 87, 241, 0.3);
+//     box-shadow: 0 8px 20px rgba(127, 203, 185, 0.3);
 //     transform: scale(1.03);
 //   }
 // }
@@ -31,7 +31,7 @@
   transition: all 0.3s ease;
   transform: scale(1);
   &:hover {
-    box-shadow: 0 8px 20px rgba(56, 87, 241, 0.3);
+    box-shadow: 0 8px 20px rgba(127, 203, 185, 0.3);
     transform: scale(1.03);
   }
 }
@@ -39,23 +39,19 @@
 .btn-primary {
   background-color: #60bfa8;
   border-color: #60bfa8;
-  box-shadow: none
 }
 
 .btn-primary:hover {
   background-color: #7fcbb9;
   border-color: #7fcbb9;
-  box-shadow: none
 }
 
 .btn-primary:not(:disabled):not(.disabled).active {
   background-color: #7fcbb9;
   border-color: #7fcbb9;
-  box-shadow: none
 }
 
 .btn-primary:focus {
     background-color: #7fcbb9;
   border-color: #7fcbb9;
-  box-shadow: none;
 }
