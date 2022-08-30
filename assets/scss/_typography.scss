@@ -10,7 +10,7 @@ a.text-light,
 a.text-dark {
     // transition: all 0.3s ease;
     &:hover {
-        color: $primary !important;
+        color: 716DBD!important;
     }
 }
 
@@ -61,8 +61,4 @@ a.text-dark {
             color: $value;
         }
     }
-}
-
-.text-primary {
-  color:716DBD!important;
 }
