@@ -152,7 +152,5 @@
 .fa {
   font-size:xx-large;
   color:#716DBD;
-    &:hover {
-    box-shadow: 0 8px 20px rgba(113,109,189, 0.3);
-}
+  text-shadow: 0 0 10px violet,0 0 20px violet,0 0 30px violet;
 }
