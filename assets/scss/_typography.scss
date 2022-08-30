@@ -10,7 +10,7 @@ a.text-light,
 a.text-dark {
     // transition: all 0.3s ease;
     &:hover {
-        color:#716DBD!important;;
+        color: $primary !important;
     }
 }
 
