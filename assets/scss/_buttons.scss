@@ -45,11 +45,13 @@
 .btn-primary:active {
   background-color: #4c9886!important;
   border-color: #4c9886!important;
+  outline:none!important;
 }
 
 .btn-primary:hover {
   background-color: #7fcbb9;
   border-color: #7fcbb9;
+  outline:none!important;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active {
