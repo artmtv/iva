@@ -2,7 +2,7 @@ baseURL = "https://iva-tutor.ru/"
 languageCode = "en-Us"
 paginate = 6
 theme = "portio"
-title = "Психолог и тьютор для вашего ребенка"
+title = "Психолог и тьютор для вашего ребенкa"
 # Main Menu
 [[menu.main]]
 name = "Обо мне"
@@ -17,7 +17,7 @@ name = "Направления работ"
 url = "#service"
 weight = 3
 [[menu.main]]
-name = "Мой опыт"
+name = "Мой oпыт"
 url = "#resume"
 weight = 5
 
