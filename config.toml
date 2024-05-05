@@ -9,7 +9,7 @@ name = "Обо мне"
 url = "#home"
 weight = 1
 [[menu.main]]
-name = "Тьюторство"
+name = "Отзывы клиентов"
 url = "#about"
 weight = 2
 [[menu.main]]
